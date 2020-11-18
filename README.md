@@ -5,7 +5,9 @@ Meu primeiro Website, totalmente desenvolvido por mim. Está um pouco bostinha, 
 # Iniciando o Projeto
 
 1 - **Baixe o arquivo .zip aqui no GitHub**
+
 2 - **Abra a index.html com seu navegador padrão ou preferencial**
+
 3 - **Pronto você já está no site** 
 
 # Créditos
